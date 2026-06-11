@@ -1,0 +1,9 @@
+next_best_action_v2,customers,total_clv,total_value_at_risk,avg_clv,avg_priority_score,avg_recovery_score,behavioral_churn_rate,formal_churn_rate,value_at_risk_share_pct
+Personalized premium win-back offer,613,10567476.08,10567476.08,17238.95,72.178,49.6,1.0,0.719,52.673
+Low-cost automated reactivation,990,5099352.57,5099352.57,5150.861,50.0,8.697,1.0,1.0,25.417
+Early retention call or targeted offer,216,1532880.98,1532880.98,7096.671,53.056,47.731,1.0,0.0,7.641
+Gentle re-engagement reminder,339,1321428.63,1321428.63,3898.02,50.56,25.59,1.0,0.0,6.587
+Travel pattern break alert with limited-time offer,162,814528.12,814528.12,5027.951,66.327,17.747,1.0,1.0,4.06
+Seasonal timing reminder before peak travel period,146,713901.55,713901.55,4889.737,55.0,10.274,1.0,1.0,3.558
+Points redemption nudge,3,12889.94,12889.94,4296.647,60.0,35.0,1.0,1.0,0.064
+Monitor only,14268,113647703.45,0.0,7965.216,10.678,0.401,0.0,0.023,0.0

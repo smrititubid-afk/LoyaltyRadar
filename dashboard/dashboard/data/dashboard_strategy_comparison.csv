@@ -1,0 +1,4 @@
+strategy,targeted_customers,value_at_risk_targeted,expected_recovered_value,campaign_cost,expected_net_value,roi_multiple
+Do Nothing,0,0.0,0.0,0,0.0,0.0
+Random Targeting,2469,2921678.28,233734.262,49380,184354.262,4.733
+LoyaltyRadar Targeting,2469,20062457.87,2593255.318,106409,2486846.318,24.371
