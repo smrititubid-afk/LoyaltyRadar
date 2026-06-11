@@ -259,3 +259,13 @@ The project demonstrates:
 * Business rule design
 * Dashboard data preparation
 * ROI simulation
+
+  ## Prototype
+
+A Streamlit dashboard prototype is included in the `dashboard/` folder.
+
+To run locally:
+
+```bash
+pip install -r requirements.txt
+streamlit run dashboard/app.py
